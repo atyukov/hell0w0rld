@@ -34,7 +34,7 @@ namespace Lesson1
         }
         public void Dispose()
         {
-            logger.Info("Application Dispose");
+            logger.Info("Application Dispose"); //test
         }
 
         protected void Application_Error()
